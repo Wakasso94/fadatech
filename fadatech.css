@@ -1,0 +1,18 @@
+
+span.input-group-addon i {
+   
+   font-size: 16px;
+}
+
+#filler{
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(img/t6.jpg)center/cover no-repeat fixed;
+
+}
+.Explorer{
+    background:(rgba(10, 10, 10, 0.5),rgba(15, 12, 12, 0.5))!important;
+}
+.flex_class{
+    position: absolute!important;
+    
+    left: 60%;
+}
